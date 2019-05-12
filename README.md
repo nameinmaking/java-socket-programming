@@ -1,2 +1,2 @@
-# socket-programming
-Socket Programming learning repository
+# java-socket-programming
+Java Socket Programming learning repository
