@@ -11,6 +11,7 @@ public class SimpleServer {
 		OutputStream slout = s1.getOutputStream();
 		DataOutputStream dos = new DataOutputStream(slout);
 
+
 		// send a string
 		dos.writeUTF("Hi there!");
 
