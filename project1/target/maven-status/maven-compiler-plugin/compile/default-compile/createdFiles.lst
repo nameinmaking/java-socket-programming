@@ -1,0 +1,4 @@
+com\nu\distsystems\clients\TCPClient.class
+com\nu\distsystems\utils\HTMLFormatter.class
+com\nu\distsystems\utils\MyLogger.class
+com\nu\distsystems\servers\TCPServer.class

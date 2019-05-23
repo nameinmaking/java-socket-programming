@@ -1,4 +1,4 @@
-// SimpleServer.java: A simple server program
+package practice;// SimpleServer.java: A simple server program
 import java.net.*;
 import java.io.*;
 public class SimpleServer {

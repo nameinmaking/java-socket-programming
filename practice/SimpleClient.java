@@ -1,4 +1,4 @@
-// SimpleClient.java: A simple client program
+package practice;// SimpleClient.java: A simple client program
 import java.net.*;
 import java.io.*;
 public class SimpleClient {
